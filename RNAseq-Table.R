@@ -1,5 +1,7 @@
-#Get expression patterns across models
-#log2fc
+#Megan Mair
+#Botas Lab internal use
+#Retreive expression patterns across models
+
 ######EDIT HERE ONLY #############
 #change to directory containing files:
 setwd("D:/RNA-seq/model comparisons") 
